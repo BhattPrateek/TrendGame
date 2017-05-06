@@ -13,6 +13,7 @@ export default class TrendChart extends React.Component {
       },
     };
   }
+
   render () {
     return (
       <div>
