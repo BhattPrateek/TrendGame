@@ -28,6 +28,7 @@ export default class TrendChart extends React.Component {
         [100,60]
       ]
     };
+
   }
   render () {
     return (
